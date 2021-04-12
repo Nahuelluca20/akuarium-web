@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/akuarium-web/static/css/main.d73ce702.chunk.css",
+    "main.js": "/akuarium-web/static/js/main.b594df6e.chunk.js",
+    "main.js.map": "/akuarium-web/static/js/main.b594df6e.chunk.js.map",
+    "runtime-main.js": "/akuarium-web/static/js/runtime-main.7f41b9bc.js",
+    "runtime-main.js.map": "/akuarium-web/static/js/runtime-main.7f41b9bc.js.map",
+    "static/js/2.4f91dd89.chunk.js": "/akuarium-web/static/js/2.4f91dd89.chunk.js",
+    "static/js/2.4f91dd89.chunk.js.map": "/akuarium-web/static/js/2.4f91dd89.chunk.js.map",
+    "static/js/3.14e692a3.chunk.js": "/akuarium-web/static/js/3.14e692a3.chunk.js",
+    "static/js/3.14e692a3.chunk.js.map": "/akuarium-web/static/js/3.14e692a3.chunk.js.map",
+    "index.html": "/akuarium-web/index.html",
+    "static/css/main.d73ce702.chunk.css.map": "/akuarium-web/static/css/main.d73ce702.chunk.css.map",
+    "static/js/2.4f91dd89.chunk.js.LICENSE.txt": "/akuarium-web/static/js/2.4f91dd89.chunk.js.LICENSE.txt",
+    "static/media/logo.00c1300e.jpg": "/akuarium-web/static/media/logo.00c1300e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f41b9bc.js",
+    "static/js/2.4f91dd89.chunk.js",
+    "static/css/main.d73ce702.chunk.css",
+    "static/js/main.b594df6e.chunk.js"
+  ]
+}
