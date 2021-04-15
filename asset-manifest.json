@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/akuarium-web/static/css/main.d73ce702.chunk.css",
-    "main.js": "/akuarium-web/static/js/main.8087ffac.chunk.js",
-    "main.js.map": "/akuarium-web/static/js/main.8087ffac.chunk.js.map",
+    "main.js": "/akuarium-web/static/js/main.ec4939ef.chunk.js",
+    "main.js.map": "/akuarium-web/static/js/main.ec4939ef.chunk.js.map",
     "runtime-main.js": "/akuarium-web/static/js/runtime-main.7f41b9bc.js",
     "runtime-main.js.map": "/akuarium-web/static/js/runtime-main.7f41b9bc.js.map",
     "static/js/2.d044ef47.chunk.js": "/akuarium-web/static/js/2.d044ef47.chunk.js",
@@ -13,12 +13,18 @@
     "static/css/main.d73ce702.chunk.css.map": "/akuarium-web/static/css/main.d73ce702.chunk.css.map",
     "static/js/2.d044ef47.chunk.js.LICENSE.txt": "/akuarium-web/static/js/2.d044ef47.chunk.js.LICENSE.txt",
     "static/media/about-bg.59a76674.jpg": "/akuarium-web/static/media/about-bg.59a76674.jpg",
-    "static/media/logo.00c1300e.jpg": "/akuarium-web/static/media/logo.00c1300e.jpg"
+    "static/media/call-outline.1833cda1.svg": "/akuarium-web/static/media/call-outline.1833cda1.svg",
+    "static/media/logo-facebook.fb131dc9.svg": "/akuarium-web/static/media/logo-facebook.fb131dc9.svg",
+    "static/media/logo-instagram.1a529693.svg": "/akuarium-web/static/media/logo-instagram.1a529693.svg",
+    "static/media/logo-whatsapp.7be3c350.svg": "/akuarium-web/static/media/logo-whatsapp.7be3c350.svg",
+    "static/media/logo.00c1300e.jpg": "/akuarium-web/static/media/logo.00c1300e.jpg",
+    "static/media/mail-outline.846d08df.svg": "/akuarium-web/static/media/mail-outline.846d08df.svg",
+    "static/media/map-outline.36dd80b3.svg": "/akuarium-web/static/media/map-outline.36dd80b3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7f41b9bc.js",
     "static/js/2.d044ef47.chunk.js",
     "static/css/main.d73ce702.chunk.css",
-    "static/js/main.8087ffac.chunk.js"
+    "static/js/main.ec4939ef.chunk.js"
   ]
 }
