@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/akuarium-web/static/css/main.d73ce702.chunk.css",
-    "main.js": "/akuarium-web/static/js/main.ec4939ef.chunk.js",
-    "main.js.map": "/akuarium-web/static/js/main.ec4939ef.chunk.js.map",
+    "main.css": "/akuarium-web/static/css/main.d2f05c99.chunk.css",
+    "main.js": "/akuarium-web/static/js/main.4f33c699.chunk.js",
+    "main.js.map": "/akuarium-web/static/js/main.4f33c699.chunk.js.map",
     "runtime-main.js": "/akuarium-web/static/js/runtime-main.7f41b9bc.js",
     "runtime-main.js.map": "/akuarium-web/static/js/runtime-main.7f41b9bc.js.map",
-    "static/js/2.d044ef47.chunk.js": "/akuarium-web/static/js/2.d044ef47.chunk.js",
-    "static/js/2.d044ef47.chunk.js.map": "/akuarium-web/static/js/2.d044ef47.chunk.js.map",
+    "static/js/2.b7b7bfb8.chunk.js": "/akuarium-web/static/js/2.b7b7bfb8.chunk.js",
+    "static/js/2.b7b7bfb8.chunk.js.map": "/akuarium-web/static/js/2.b7b7bfb8.chunk.js.map",
     "static/js/3.14e692a3.chunk.js": "/akuarium-web/static/js/3.14e692a3.chunk.js",
     "static/js/3.14e692a3.chunk.js.map": "/akuarium-web/static/js/3.14e692a3.chunk.js.map",
     "index.html": "/akuarium-web/index.html",
-    "static/css/main.d73ce702.chunk.css.map": "/akuarium-web/static/css/main.d73ce702.chunk.css.map",
-    "static/js/2.d044ef47.chunk.js.LICENSE.txt": "/akuarium-web/static/js/2.d044ef47.chunk.js.LICENSE.txt",
+    "static/css/main.d2f05c99.chunk.css.map": "/akuarium-web/static/css/main.d2f05c99.chunk.css.map",
+    "static/js/2.b7b7bfb8.chunk.js.LICENSE.txt": "/akuarium-web/static/js/2.b7b7bfb8.chunk.js.LICENSE.txt",
     "static/media/about-bg.59a76674.jpg": "/akuarium-web/static/media/about-bg.59a76674.jpg",
     "static/media/call-outline.1833cda1.svg": "/akuarium-web/static/media/call-outline.1833cda1.svg",
     "static/media/logo-facebook.fb131dc9.svg": "/akuarium-web/static/media/logo-facebook.fb131dc9.svg",
@@ -19,12 +19,17 @@
     "static/media/logo-whatsapp.7be3c350.svg": "/akuarium-web/static/media/logo-whatsapp.7be3c350.svg",
     "static/media/logo.00c1300e.jpg": "/akuarium-web/static/media/logo.00c1300e.jpg",
     "static/media/mail-outline.846d08df.svg": "/akuarium-web/static/media/mail-outline.846d08df.svg",
-    "static/media/map-outline.36dd80b3.svg": "/akuarium-web/static/media/map-outline.36dd80b3.svg"
+    "static/media/map-outline.36dd80b3.svg": "/akuarium-web/static/media/map-outline.36dd80b3.svg",
+    "static/media/pecera-1.1df3ed5d.jpg": "/akuarium-web/static/media/pecera-1.1df3ed5d.jpg",
+    "static/media/pecera-2.f108f21f.jpg": "/akuarium-web/static/media/pecera-2.f108f21f.jpg",
+    "static/media/pecera-3.735171a3.jpg": "/akuarium-web/static/media/pecera-3.735171a3.jpg",
+    "static/media/pecera-4.e2cb8875.jpg": "/akuarium-web/static/media/pecera-4.e2cb8875.jpg",
+    "static/media/pecera-5.62a28545.jpg": "/akuarium-web/static/media/pecera-5.62a28545.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.7f41b9bc.js",
-    "static/js/2.d044ef47.chunk.js",
-    "static/css/main.d73ce702.chunk.css",
-    "static/js/main.ec4939ef.chunk.js"
+    "static/js/2.b7b7bfb8.chunk.js",
+    "static/css/main.d2f05c99.chunk.css",
+    "static/js/main.4f33c699.chunk.js"
   ]
 }
